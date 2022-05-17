@@ -1,4 +1,4 @@
-import "../App.css";
+import "./Home.css";
 import { Navbar, Container, Nav } from "react-bootstrap";
 import logo from "../img/rust_logo.png";
 import logo_big from "../img/rust_logo_colored.png";
