@@ -1,8 +1,8 @@
-import "./App.css";
-import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap";
-import logo from "./img/rust_logo.png";
-import logo_big from "./img/rust_logo_colored.png";
-import { ButtonGroup, Button, DropdownButton, Dropdown } from "react-bootstrap";
+import "../App.css";
+import { Navbar, Container, Nav } from "react-bootstrap";
+import logo from "../img/rust_logo.png";
+import logo_big from "../img/rust_logo_colored.png";
+import { Button } from "react-bootstrap";
 import { Figure } from "react-bootstrap";
 
 function App() {
